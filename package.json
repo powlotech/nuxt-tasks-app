@@ -27,5 +27,6 @@
   "devDependencies": {
     "drizzle-kit": "^0.31.0",
     "typescript": "^5.8.3"
-  }
+  },
+  "license": "MIT"
 }
